@@ -1,0 +1,47 @@
+/* Write your CSS here */
+.app-container {
+  min-height: 500px;
+  width: 100vw;
+  background-color: #161625;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading-container {
+  min-height: 100px;
+  width: 100vw;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.website-logo-img {
+  height: 50px;
+  width: 100px;
+}
+.cowin-heading {
+  color: #2cc6c6;
+  font-size: 25px;
+  font-family: 'Roboto';
+}
+.main-heading {
+  color: #cbd5e1;
+  font-size: 25px;
+  font-family: 'Roboto';
+}
+.failure-container {
+  background-color: #161625;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.failure-view-img {
+  height: 300px;
+  width: 500px;
+}
+.failure-heading {
+  color: #cbd5e1;
+  font-size: 25px;
+  font-family: 'Roboto';
+}
